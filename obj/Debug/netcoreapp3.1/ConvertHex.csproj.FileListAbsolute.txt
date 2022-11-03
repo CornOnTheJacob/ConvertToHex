@@ -1,0 +1,14 @@
+C:\Users\jmous464\source\repos\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.exe
+C:\Users\jmous464\source\repos\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.deps.json
+C:\Users\jmous464\source\repos\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.runtimeconfig.json
+C:\Users\jmous464\source\repos\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.runtimeconfig.dev.json
+C:\Users\jmous464\source\repos\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.dll
+C:\Users\jmous464\source\repos\ConvertHex\bin\Debug\netcoreapp3.1\ConvertHex.pdb
+C:\Users\jmous464\source\repos\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.csproj.AssemblyReference.cache
+C:\Users\jmous464\source\repos\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmous464\source\repos\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.AssemblyInfoInputs.cache
+C:\Users\jmous464\source\repos\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.AssemblyInfo.cs
+C:\Users\jmous464\source\repos\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.csproj.CoreCompileInputs.cache
+C:\Users\jmous464\source\repos\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.dll
+C:\Users\jmous464\source\repos\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.pdb
+C:\Users\jmous464\source\repos\ConvertHex\obj\Debug\netcoreapp3.1\ConvertHex.genruntimeconfig.cache
